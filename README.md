@@ -1,4 +1,7 @@
-📚 #Student Performance Prediction App 🎓
+#Student Performance Prediction App
+
+📚 Student Performance Prediction App 🎓
+
 🔹 Overview
 The Student Performance Prediction App is a machine learning-based web application that predicts a student's score based on various study-related factors. The app is built using Python, Linear Regression, and Streamlit for the user interface.
 
